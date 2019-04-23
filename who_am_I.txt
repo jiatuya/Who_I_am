@@ -1,0 +1,3 @@
+Name = Xinglin Jia
+Role = M.S. student in bioinfo and biostats
+Interest = Bioinformatics, transcriptomics, proteomics, metagenomics

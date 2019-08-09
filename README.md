@@ -1,4 +1,4 @@
-### Introduction of me, and resume 
+### Introduction of Xinglin, and Resume 
 Name = Xinglin (Jason) Jia <br>
 Role = "M.S. student in bioinfo and biostats" <br>
 Interest = [Bioinformatics, Machine_learning, Biology] <br>

@@ -12,4 +12,4 @@ Current_status = "Appling PhD in bioinfo/data science for 2020 fall,
 Always get amazed by the mysterious beauty of math, physics and biology.       
 
 
-[My resume 7/6/19](Self_Introduction/Xinglin_Jason_Jia_resume_7_26_19.pdf)
+[My resume 7/6/19](jiatuya/Self_Introduction/Xinglin_Jason_Jia_resume_7_26_19.pdf)

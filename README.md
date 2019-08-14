@@ -13,4 +13,4 @@
 
 [My resume 7/6/19](Xinglin_Jason_Jia_resume_7_26_19.pdf)
 
-[![My current project, SNV prediction model 8/14/19]](https://github.com/jiatuya/SNV_prediction_model)
+[My current project, SNV prediction model 8/14/19](https://github.com/jiatuya/SNV_prediction_model)

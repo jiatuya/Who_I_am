@@ -12,3 +12,5 @@
     Always get amazed by the mysterious beauty of math, physics and biology.       
 
 [My resume 7/6/19](Xinglin_Jason_Jia_resume_7_26_19.pdf)
+
+[My current project 8/14/19](./SNV_prediction_model)
